@@ -87,12 +87,11 @@ img {
 
 .about-paragraph {
   display: flex;
-  margin: 30px 0;
+  margin: 10px 0;
 }
 
 .about-paragraph p {
   margin: 10px;
-  text-align: justify;
   background: none;
 }
 
@@ -125,6 +124,10 @@ img {
 
   h2 {
     font-size: 48px;
+    text-align: center;
+  }
+
+  p {
     text-align: center;
   }
 
